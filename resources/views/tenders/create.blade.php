@@ -38,7 +38,8 @@
  'Bank'=>'Bank Related',
  'Buil'=>'Building Materials',
  'Cl'=>'Cleaning & Janitorial',
- 'he'=>'Health'],
+ 'he'=>'Health',
+ 'co'=>'computer and accessories'],
  null,['placeholder' => 'Pick a category...']
  )}}
     
