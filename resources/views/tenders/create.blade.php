@@ -39,7 +39,8 @@
  'Buil'=>'Building Materials',
  'Cl'=>'Cleaning & Janitorial',
  'he'=>'Health',
- 'co'=>'computer and accessories'],
+ 'co'=>'computer and accessories',
+ 'cons'=>'construction'],
  null,['placeholder' => 'Pick a category...']
  )}}
     
